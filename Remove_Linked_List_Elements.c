@@ -39,7 +39,7 @@ struct ListNode *removeelement(struct ListNode *head, int val)
 
             temp_next = temp_next->next;
         }
-        head = head->next;
+        head = head->   next;
        
     }
     if(head==NULL)
