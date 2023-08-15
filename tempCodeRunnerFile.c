@@ -1,2 +1,2 @@
-head->val = 18;
-    head->next = second;
+ temp->val=1;
+    temp->next=NULL;
