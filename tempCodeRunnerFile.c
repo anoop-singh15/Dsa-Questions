@@ -1,5 +1,2 @@
-  if (count == 0)
-        {
-            head = temp;
-            printf("R\n");
-        }
+even_next = even_next->next;
+        odd_next = odd_next->next;
